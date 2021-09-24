@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "17b747d903f4e1bcbff2",
+    "revision": "0001d93f0abaab0131b7",
     "url": "/iparhaiMathGame/static/css/main.09afe470.chunk.css"
   },
   {
-    "revision": "17b747d903f4e1bcbff2",
-    "url": "/iparhaiMathGame/static/js/main.9e9c7672.chunk.js"
+    "revision": "0001d93f0abaab0131b7",
+    "url": "/iparhaiMathGame/static/js/main.e4509952.chunk.js"
   },
   {
     "revision": "d905f99642d63a5cdead",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/iparhaiMathGame/static/media/background.f5f25869.gif"
   },
   {
-    "revision": "364773fd3232c5aca718f09e84c48860",
+    "revision": "5c1e172b5726b4306bf114103355ce24",
     "url": "/iparhaiMathGame/index.html"
   }
 ];
