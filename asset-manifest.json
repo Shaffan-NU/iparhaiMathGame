@@ -1,7 +1,7 @@
 {
   "main.css": "/iparhaiMathGame/static/css/main.45dc9df6.chunk.css",
-  "main.js": "/iparhaiMathGame/static/js/main.bdc7a08a.chunk.js",
-  "main.js.map": "/iparhaiMathGame/static/js/main.bdc7a08a.chunk.js.map",
+  "main.js": "/iparhaiMathGame/static/js/main.81683d76.chunk.js",
+  "main.js.map": "/iparhaiMathGame/static/js/main.81683d76.chunk.js.map",
   "runtime~main.js": "/iparhaiMathGame/static/js/runtime~main.838d039a.js",
   "runtime~main.js.map": "/iparhaiMathGame/static/js/runtime~main.838d039a.js.map",
   "static/js/2.1b4214ae.chunk.js": "/iparhaiMathGame/static/js/2.1b4214ae.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.a5fc40f6.chunk.js": "/iparhaiMathGame/static/js/3.a5fc40f6.chunk.js",
   "static/js/3.a5fc40f6.chunk.js.map": "/iparhaiMathGame/static/js/3.a5fc40f6.chunk.js.map",
   "index.html": "/iparhaiMathGame/index.html",
-  "precache-manifest.acf27cc0b226fec54c61478f8aa130d1.js": "/iparhaiMathGame/precache-manifest.acf27cc0b226fec54c61478f8aa130d1.js",
+  "precache-manifest.c48b0aec53b7c43b78e13272b0b44f00.js": "/iparhaiMathGame/precache-manifest.c48b0aec53b7c43b78e13272b0b44f00.js",
   "service-worker.js": "/iparhaiMathGame/service-worker.js",
   "static/css/main.45dc9df6.chunk.css.map": "/iparhaiMathGame/static/css/main.45dc9df6.chunk.css.map",
   "static/media/_1.mp3": "/iparhaiMathGame/static/media/_1.40d8e09c.mp3",
@@ -24,9 +24,9 @@
   "static/media/_9.mp3": "/iparhaiMathGame/static/media/_9.fc30493c.mp3",
   "static/media/background.gif": "/iparhaiMathGame/static/media/background.f5f25869.gif",
   "static/media/background2.gif": "/iparhaiMathGame/static/media/background2.1c6ccbd9.gif",
-  "static/media/ball1.png": "/iparhaiMathGame/static/media/ball1.78e8a335.png",
-  "static/media/ball10.png": "/iparhaiMathGame/static/media/ball10.9b19d9c6.png",
   "static/media/bowl.png": "/iparhaiMathGame/static/media/bowl.cabc22c6.png",
+  "static/media/football1.png": "/iparhaiMathGame/static/media/football1.c989b204.png",
+  "static/media/football10.png": "/iparhaiMathGame/static/media/football10.c040d63c.png",
   "static/media/removeItem.mp3": "/iparhaiMathGame/static/media/removeItem.91412d06.mp3",
   "static/media/rooster.png": "/iparhaiMathGame/static/media/rooster.74562e5d.png"
 }
