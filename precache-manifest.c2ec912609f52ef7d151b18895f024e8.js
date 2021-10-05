@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "e4efac1f114e1a6ce103",
-    "url": "/iparhaiMathGame/static/css/main.6aef53f1.chunk.css"
+    "revision": "aad03ae57424027291f3",
+    "url": "/iparhaiMathGame/static/css/main.b4a5e81c.chunk.css"
   },
   {
-    "revision": "e4efac1f114e1a6ce103",
-    "url": "/iparhaiMathGame/static/js/main.5e5959a4.chunk.js"
+    "revision": "aad03ae57424027291f3",
+    "url": "/iparhaiMathGame/static/js/main.4b6cd983.chunk.js"
   },
   {
-    "revision": "37dcff8f4baa97763fd0",
-    "url": "/iparhaiMathGame/static/js/runtime~main.33f5376e.js"
+    "revision": "4abebd872ee83613c889",
+    "url": "/iparhaiMathGame/static/js/runtime~main.538de348.js"
   },
   {
-    "revision": "27bf2af00ce08f15f55c",
+    "revision": "0b5eb7e176773240d034",
     "url": "/iparhaiMathGame/static/css/2.9b5fface.chunk.css"
   },
   {
-    "revision": "27bf2af00ce08f15f55c",
-    "url": "/iparhaiMathGame/static/js/2.3a453a3b.chunk.js"
+    "revision": "0b5eb7e176773240d034",
+    "url": "/iparhaiMathGame/static/js/2.f061e53a.chunk.js"
   },
   {
-    "revision": "3060f7e2494e9b154c06",
-    "url": "/iparhaiMathGame/static/js/3.2472ecb7.chunk.js"
+    "revision": "d78fa6f3b0e6d65cd586",
+    "url": "/iparhaiMathGame/static/js/3.1d94b6e0.chunk.js"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -72,6 +72,18 @@ self.__precacheManifest = [
     "url": "/iparhaiMathGame/static/media/rooster.74562e5d.png"
   },
   {
+    "revision": "a0d6b13874a29393b0f8252f2adb5fa7",
+    "url": "/iparhaiMathGame/static/media/grocerySound.a0d6b138.mp3"
+  },
+  {
+    "revision": "7360a269fa89ec8922a9fb9354820523",
+    "url": "/iparhaiMathGame/static/media/sound.7360a269.png"
+  },
+  {
+    "revision": "6d3e6e31968de6abd43c75375d97964a",
+    "url": "/iparhaiMathGame/static/media/ca.6d3e6e31.mp3"
+  },
+  {
     "revision": "cabc22c6e80bc043c10b098b6b8854bb",
     "url": "/iparhaiMathGame/static/media/bowl.cabc22c6.png"
   },
@@ -96,7 +108,11 @@ self.__precacheManifest = [
     "url": "/iparhaiMathGame/static/media/background2.b512cd28.gif"
   },
   {
-    "revision": "95e8b060554c8745d9d6ef315c925506",
+    "revision": "f02ac89a44b28acd80cb6b0399adbf8f",
+    "url": "/iparhaiMathGame/static/media/mute.f02ac89a.png"
+  },
+  {
+    "revision": "07a47b2a3f0e305c7f85f747ff932d29",
     "url": "/iparhaiMathGame/index.html"
   }
 ];
