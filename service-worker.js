@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/iparhaiMathGame/precache-manifest.c2ec912609f52ef7d151b18895f024e8.js"
+  "/iparhaiMathGame/precache-manifest.552921d2c26efeb2276b82c63b33898f.js"
 );
 
 workbox.clientsClaim();
