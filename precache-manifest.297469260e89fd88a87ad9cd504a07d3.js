@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "3ac1b57369c5430f6db8",
-    "url": "/iparhaiMathGame/static/css/main.364b892b.chunk.css"
+    "revision": "4bfbfc311e6d963489d4",
+    "url": "/iparhaiMathGame/static/css/main.816174ed.chunk.css"
   },
   {
-    "revision": "3ac1b57369c5430f6db8",
-    "url": "/iparhaiMathGame/static/js/main.07452018.chunk.js"
+    "revision": "4bfbfc311e6d963489d4",
+    "url": "/iparhaiMathGame/static/js/main.223fc05f.chunk.js"
   },
   {
     "revision": "0f8bdcf91ecbf9ce9093",
     "url": "/iparhaiMathGame/static/js/runtime~main.472f57b2.js"
   },
   {
-    "revision": "ef4a047573f32a470726",
+    "revision": "5b7733ea61258b089e05",
     "url": "/iparhaiMathGame/static/css/2.9b5fface.chunk.css"
   },
   {
-    "revision": "ef4a047573f32a470726",
-    "url": "/iparhaiMathGame/static/js/2.3d4efaad.chunk.js"
+    "revision": "5b7733ea61258b089e05",
+    "url": "/iparhaiMathGame/static/js/2.e2d642d0.chunk.js"
   },
   {
     "revision": "0043b26c368631ed46ee",
@@ -28,6 +28,10 @@ self.__precacheManifest = [
     "url": "/iparhaiMathGame/static/media/removeItem.91412d06.mp3"
   },
   {
+    "revision": "7360a269fa89ec8922a9fb9354820523",
+    "url": "/iparhaiMathGame/static/media/sound.7360a269.png"
+  },
+  {
     "revision": "2fd9ac2208c833754484473decfc84a1",
     "url": "/iparhaiMathGame/static/media/drop.2fd9ac22.wav"
   },
@@ -36,16 +40,20 @@ self.__precacheManifest = [
     "url": "/iparhaiMathGame/static/media/bowl.cabc22c6.png"
   },
   {
+    "revision": "a0d6b13874a29393b0f8252f2adb5fa7",
+    "url": "/iparhaiMathGame/static/media/grocerySound.a0d6b138.mp3"
+  },
+  {
+    "revision": "f02ac89a44b28acd80cb6b0399adbf8f",
+    "url": "/iparhaiMathGame/static/media/mute.f02ac89a.png"
+  },
+  {
     "revision": "57a2639bd6d80374aaf0714a48200f92",
     "url": "/iparhaiMathGame/static/media/10.57a2639b.svg"
   },
   {
     "revision": "a7f0e4e3c9b56642615788ea350047d6",
     "url": "/iparhaiMathGame/static/media/1.a7f0e4e3.svg"
-  },
-  {
-    "revision": "7360a269fa89ec8922a9fb9354820523",
-    "url": "/iparhaiMathGame/static/media/sound.7360a269.png"
   },
   {
     "revision": "424d18986561c7039221eb97a66aef6b",
@@ -120,15 +128,7 @@ self.__precacheManifest = [
     "url": "/iparhaiMathGame/static/media/background2.b512cd28.gif"
   },
   {
-    "revision": "a0d6b13874a29393b0f8252f2adb5fa7",
-    "url": "/iparhaiMathGame/static/media/grocerySound.a0d6b138.mp3"
-  },
-  {
-    "revision": "f02ac89a44b28acd80cb6b0399adbf8f",
-    "url": "/iparhaiMathGame/static/media/mute.f02ac89a.png"
-  },
-  {
-    "revision": "c03900b3102ae9072b21e741a2d546f1",
+    "revision": "252f5f25ae40d62406067d13790a0380",
     "url": "/iparhaiMathGame/index.html"
   }
 ];
